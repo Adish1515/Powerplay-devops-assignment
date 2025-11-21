@@ -38,4 +38,6 @@ Opened: http://<EC2-public-ip>/
 
 Deliverable:
 
-task2_screenshot.png
+Task2_screenshot.png
+Task2 web.png
+Task2-commands.png
