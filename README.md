@@ -40,9 +40,8 @@ Verify using EC2 Public IP
 
 📁 Folder: Task2/
 Contents:
-
-task2_screenshot.png 
-
+Task2_screenshot.png 
+Task2 web.png
 Task2-commands.png
 
 README with commands used
