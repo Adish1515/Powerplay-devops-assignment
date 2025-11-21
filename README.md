@@ -102,25 +102,3 @@ task4_output.png (CloudWatch logs)
 
 README describing AWS upload steps
 
-📂 Repository Structure
-Powerplay-devops-assignment/
-│── README.md
-│
-├── Task1/
-│   └── task1_screenshot.png
-│
-├── Task2/
-│   ├── task2_screenshot.png
-│   ├── Task2-commands.png
-│   └── README.md
-│
-├── Task3/
-│   ├── system_report.sh
-│   ├── cronjob-5mins.png
-│   ├── Task3-screenshot.png
-│   └── README.md
-│
-└── Task4/
-    ├── task4_awscli.png
-    ├── task4_output.png
-    └── README.md
