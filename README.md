@@ -41,7 +41,7 @@ Verify using EC2 Public IP
 📁 Folder: Task2/
 Contents:
 
-task2_screenshot.png (Webpage in browser)
+task2_screenshot.png 
 
 Task2-commands.png
 
