@@ -1,5 +1,4 @@
- Powerplay DevOps Intern Assignment
-
+Powerplay DevOps Intern Assignment
 This repository contains all four tasks completed as part of the Powerplay DevOps Intern Assignment.
 Each task is organized in its own folder with documentation and screenshots.
  Task Overview
