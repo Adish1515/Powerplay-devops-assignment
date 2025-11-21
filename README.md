@@ -2,7 +2,7 @@ Powerplay DevOps Intern Assignment
 This repository contains all four tasks completed as part of the Powerplay DevOps Intern Assignment.
 Each task is organized in its own folder with documentation and screenshots.
  Task Overview
-🔹 Task 1 – AWS IAM User, EC2 Instance & SSH Access
+🔹 Task 1 – Environment Setup
 
 Objective:
 
@@ -21,7 +21,7 @@ Contents:
 
 task1_screenshot.png (SSH & user creation proof)
 
-🔹 Task 2 – Nginx Setup & EC2 Metadata Webpage
+🔹 Task 2 –Simple Web Service Setup
 
 Objective:
 
