@@ -30,7 +30,7 @@ Name: Adish Suryawanshi
 
 Instance ID: i-08bd76a2cc22930ef
 
-Uptime: 
+Uptime: up 1hour,1min
 
 Verified in browser
 
