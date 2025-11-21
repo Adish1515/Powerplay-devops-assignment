@@ -96,9 +96,9 @@ Verify logs in CloudWatch
 📁 Folder: Task4/
 Contents:
 
-task4_awscli.png (CLI command screenshot)
+Task4_awscli.png (CLI command screenshot)
 
-task4_output.png (CloudWatch logs)
+Task4_output.png (CloudWatch logs)
 
 README describing AWS upload steps
 
